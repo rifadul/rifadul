@@ -9,16 +9,16 @@
 - 🔭 I’m currently working on [ZAAG SYSTEMS LTD](https://zaagsys.com/)  
   
 
-- 👨‍💻 I’m currently working on: React JS, Next JS, JavaScript, Typescript, JEST, Enzyme, Python,Django web framework.  
+- 👨‍💻 I’m currently working on: React JS, Next JS, JavaScript, Typescript, JEST, Enzyme, Python,Django, REST API.  
   
 
-- 🌱 I’m currently learning Next JS  
+- 🌱 I’m currently learning Next JS.
   
 
-- ❓ Ask me about anything related to React JS and Python Django related technologies  
+- ❓ Ask me about anything related to React JS and Python Django related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces . 
   
 
 <br/>  
